@@ -1,0 +1,111 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "B4B-ZR_LF__SN_" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "J" (id 0) (at 5.08 5.08 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "B4B-ZR_LF__SN_" (id 1) (at 5.08 -12.7 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "B4B-ZR_LF__SN_:CONN_B4B-ZR_LF__SN__JST" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MF" "JST Sales" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Description" "\nConnector Header Through Hole 4 position 0.059 (1.50mm)\n" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Package" "None" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Price" "None" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SnapEDA_Link" "https://www.snapeda.com/parts/B4B-ZR(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MP" "B4B-ZR(LF)(SN)" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Availability" "In Stock" (id 10) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Check_prices" "https://www.snapeda.com/parts/B4B-ZR(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda" (id 11) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "B4B-ZR_LF__SN__0_0"
+      (polyline
+        (pts (xy 10.16 0.0) (xy 5.08 0.0)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -2.54) (xy 5.08 -2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -5.08) (xy 5.08 -5.08)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -7.62) (xy 5.08 -7.62)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 0.0) (xy 8.89 0.8467)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -2.54) (xy 8.89 -1.6933)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -5.08) (xy 8.89 -4.2333)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -7.62) (xy 8.89 -6.7733)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 0.0) (xy 8.89 -0.8467)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -2.54) (xy 8.89 -3.3867)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -5.08) (xy 8.89 -5.9267)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -7.62) (xy 8.89 -8.4667)) (stroke (width 0.1524))
+      )
+      (rectangle (start 5.08 -10.16) (end 12.7 2.54)
+        (stroke (width 0.1524)) (fill (type background))
+      )
+      (pin passive line (at 0.0 0.0 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 0.0 -2.54 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 0.0 -5.08 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 0.0 -7.62 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)

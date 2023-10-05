@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ESP32-S3-DEVKITC-1-N8R2")(type "KiCad")(uri "${KIPRJMOD}/lib/ESP32-S3-DEVKITC-1-N8R2")(options "")(descr ""))
+  (lib (name "B4B-ZR_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/lib/B4B-ZR_LF__SN_")(options "")(descr ""))
+  (lib (name "outline")(type "KiCad")(uri "${KIPRJMOD}/outline.pretty")(options "")(descr ""))
+  (lib (name "potentiometer_custom")(type "KiCad")(uri "${KIPRJMOD}/media/potentiometer_custom.pretty")(options "")(descr ""))
+)
